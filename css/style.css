@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-center {
+text-align: center;
+}
+
+.text-uppercase{
+text-transform: uppercase;
+}
+
+.page-title {
+    letter-spacing: 1px;
+}
+
+.page-description {
+    color: grey;
+    font-size: 16px;
+}
+
+.news-container {
+    margin-top: 100px;
+}
+
+.news-post{
+    width: 800px;    
+}
+
+.news-post-author, .news-post-date {
+    font-size: 14px;
+    color: lightgreen;
+    font-weight: bold;
+}
+
+.news-post-date {
+    color: gray;
+}
+
+.news-post-title {
+    border-left: 4px solid black;
+    padding-left: 10px;
+
+}
+
+.news-post-text {
+    border-left: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
